@@ -5,8 +5,6 @@ import java.util.TreeMap;
 
 public class Otomat {
     /*
-Merhaba arkadaşlar, javadan proje yapmak isteyen arkadaşlar vardı...
-projemizin adı YIYECEK OTOMATI
 --5 adet ürün ve bu ürünlerin fiyatlarını belirleyiniz.
 Bu ürünler ekranda listelensin
 --Ürün seçip, para miktarı giriniz
